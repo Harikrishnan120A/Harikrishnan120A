@@ -132,14 +132,6 @@ Brief description of what this project does and its key features. Include any re
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=tokyonight" alt="WakaTime Stats" />
-</div>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
