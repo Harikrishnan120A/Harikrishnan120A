@@ -12,7 +12,7 @@ I'm a passionate **[Your Role/Title]** with **[X years]** of experience in softw
 - 🌱 **Learning:** [AI-chatbots, Web-development, Desighning]
 - 👯 **Looking to collaborate on:** [my business partner]
 - 🤔 **Seeking help with:** [Areas where you want to improve]
-- 📫 **Reach me at:** [aharikrishnan485@gmail.com]
+- 📫 **Reach me at:** [aharikrishnanofficial@gmail.com]
 - 😄 **Pronouns:** [he/him]
 - ⚡ **Fun fact:** [I'm an egoist]
 
