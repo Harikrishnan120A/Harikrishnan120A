@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **[Your Role/Title]** with **[X years]** of experience in software development. I love building innovative solutions and contributing to open-source projects. My journey in tech started with **[how you got started]**, and I've been constantly learning and evolving ever since.
+I'm a passionate **Full Stack Developer** with **1 year** of experience in software development. I love building innovative solutions and contributing to open-source projects. My journey in tech started with **[how you got started]**, and I've been constantly learning and evolving ever since.
 
 - 🔭 **Currently working on:** [our own startup]
 - 🌱 **Learning:** [AI-chatbots, Web-development, Desighning]
